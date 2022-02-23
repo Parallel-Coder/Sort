@@ -1,2 +1,4 @@
 # Sort
-some example of sort
+* Merage Sort
+* Shell Sort
+* Insert Sort
